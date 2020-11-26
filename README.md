@@ -1,5 +1,5 @@
 # CardMaker
-Using python to generate LaTeX to create cards using a template
+Using python to generate LaTeX to create modern playing cards using a template
 
 Some people might just use LaTeX straight up (or heaven forbid inDesign),
 but me? I like python. 
